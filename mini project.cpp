@@ -1,8 +1,4 @@
-#include<iostream>
-#include<fstream>
-#include<stdlib.h>
-#include<cctype>
-#include<iomanip>
+#include <bits/stdc++.h>
 using namespace std;
 void create_account();
 void display(int);
